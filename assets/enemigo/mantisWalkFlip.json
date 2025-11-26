@@ -1,0 +1,107 @@
+﻿{"frames": {
+
+"Mantis0000":
+{
+	"frame": {"x":0,"y":0,"w":259,"h":297},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":20,"y":8,"w":280,"h":305},
+	"sourceSize": {"w":280,"h":305}
+},
+"Mantis0001":
+{
+	"frame": {"x":0,"y":0,"w":259,"h":297},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":20,"y":8,"w":280,"h":305},
+	"sourceSize": {"w":280,"h":305}
+},
+"Mantis0002":
+{
+	"frame": {"x":259,"y":0,"w":258,"h":298},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":20,"y":7,"w":280,"h":305},
+	"sourceSize": {"w":280,"h":305}
+},
+"Mantis0003":
+{
+	"frame": {"x":517,"y":0,"w":256,"h":304},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":20,"y":1,"w":280,"h":305},
+	"sourceSize": {"w":280,"h":305}
+},
+"Mantis0004":
+{
+	"frame": {"x":517,"y":0,"w":256,"h":304},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":20,"y":1,"w":280,"h":305},
+	"sourceSize": {"w":280,"h":305}
+},
+"Mantis0005":
+{
+	"frame": {"x":0,"y":304,"w":257,"h":304},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":20,"y":1,"w":280,"h":305},
+	"sourceSize": {"w":280,"h":305}
+},
+"Mantis0006":
+{
+	"frame": {"x":257,"y":304,"w":277,"h":296},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":3,"y":9,"w":280,"h":305},
+	"sourceSize": {"w":280,"h":305}
+},
+"Mantis0007":
+{
+	"frame": {"x":257,"y":304,"w":277,"h":296},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":3,"y":9,"w":280,"h":305},
+	"sourceSize": {"w":280,"h":305}
+},
+"Mantis0008":
+{
+	"frame": {"x":534,"y":304,"w":278,"h":295},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":7,"w":280,"h":305},
+	"sourceSize": {"w":280,"h":305}
+},
+"Mantis0009":
+{
+	"frame": {"x":0,"y":608,"w":257,"h":301},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":18,"y":0,"w":280,"h":305},
+	"sourceSize": {"w":280,"h":305}
+},
+"Mantis0010":
+{
+	"frame": {"x":0,"y":608,"w":257,"h":301},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":18,"y":0,"w":280,"h":305},
+	"sourceSize": {"w":280,"h":305}
+},
+"Mantis0011":
+{
+	"frame": {"x":257,"y":608,"w":256,"h":300},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":20,"y":1,"w":280,"h":305},
+	"sourceSize": {"w":280,"h":305}
+}},
+"meta": {
+	"app": "Adobe Animate",
+	"version": "19.2.1.408",
+	"image": "Enemigo3Caminata.png",
+	"format": "RGBA8888",
+	"size": {"w":1024,"h":1024},
+	"scale": "1"
+}
+}

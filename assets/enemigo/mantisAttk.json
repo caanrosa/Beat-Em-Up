@@ -1,0 +1,91 @@
+﻿{"frames": {
+
+"Mantis AtaqueFlip0000":
+{
+	"frame": {"x":0,"y":0,"w":424,"h":508},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":173,"y":0,"w":597,"h":508},
+	"sourceSize": {"w":597,"h":508}
+},
+"Mantis AtaqueFlip0001":
+{
+	"frame": {"x":424,"y":0,"w":564,"h":307},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":33,"y":201,"w":597,"h":508},
+	"sourceSize": {"w":597,"h":508}
+},
+"Mantis AtaqueFlip0002":
+{
+	"frame": {"x":0,"y":508,"w":594,"h":256},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":3,"y":252,"w":597,"h":508},
+	"sourceSize": {"w":597,"h":508}
+},
+"Mantis AtaqueFlip0003":
+{
+	"frame": {"x":0,"y":508,"w":594,"h":256},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":3,"y":252,"w":597,"h":508},
+	"sourceSize": {"w":597,"h":508}
+},
+"Mantis AtaqueFlip0004":
+{
+	"frame": {"x":0,"y":764,"w":596,"h":268},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":1,"y":240,"w":597,"h":508},
+	"sourceSize": {"w":597,"h":508}
+},
+"Mantis AtaqueFlip0005":
+{
+	"frame": {"x":0,"y":1032,"w":597,"h":271},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":237,"w":597,"h":508},
+	"sourceSize": {"w":597,"h":508}
+},
+"Mantis AtaqueFlip0006":
+{
+	"frame": {"x":0,"y":1032,"w":597,"h":271},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":237,"w":597,"h":508},
+	"sourceSize": {"w":597,"h":508}
+},
+"Mantis AtaqueFlip0007":
+{
+	"frame": {"x":0,"y":1032,"w":597,"h":271},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":237,"w":597,"h":508},
+	"sourceSize": {"w":597,"h":508}
+},
+"Mantis AtaqueFlip0008":
+{
+	"frame": {"x":0,"y":1032,"w":597,"h":271},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":237,"w":597,"h":508},
+	"sourceSize": {"w":597,"h":508}
+},
+"Mantis AtaqueFlip0009":
+{
+	"frame": {"x":0,"y":1032,"w":597,"h":271},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":237,"w":597,"h":508},
+	"sourceSize": {"w":597,"h":508}
+}},
+"meta": {
+	"app": "Adobe Animate",
+	"version": "19.2.1.408",
+	"image": "Enemigo3AtaqueFlip.png",
+	"format": "RGBA8888",
+	"size": {"w":1024,"h":1382},
+	"scale": "1"
+}
+}

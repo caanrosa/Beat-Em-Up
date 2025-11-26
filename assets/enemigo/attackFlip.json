@@ -1,0 +1,67 @@
+﻿{"frames": {
+
+"Vortice ataqueFlip0000":
+{
+	"frame": {"x":0,"y":0,"w":163,"h":183},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":176,"y":4,"w":339,"h":226},
+	"sourceSize": {"w":339,"h":226}
+},
+"Vortice ataqueFlip0001":
+{
+	"frame": {"x":163,"y":0,"w":163,"h":184},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":176,"y":0,"w":339,"h":226},
+	"sourceSize": {"w":339,"h":226}
+},
+"Vortice ataqueFlip0002":
+{
+	"frame": {"x":163,"y":0,"w":163,"h":184},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":176,"y":0,"w":339,"h":226},
+	"sourceSize": {"w":339,"h":226}
+},
+"Vortice ataqueFlip0003":
+{
+	"frame": {"x":0,"y":184,"w":227,"h":122},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":67,"y":78,"w":339,"h":226},
+	"sourceSize": {"w":339,"h":226}
+},
+"Vortice ataqueFlip0004":
+{
+	"frame": {"x":227,"y":184,"w":246,"h":129},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":30,"y":87,"w":339,"h":226},
+	"sourceSize": {"w":339,"h":226}
+},
+"Vortice ataqueFlip0005":
+{
+	"frame": {"x":0,"y":313,"w":262,"h":132},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":94,"w":339,"h":226},
+	"sourceSize": {"w":339,"h":226}
+},
+"Vortice ataqueFlip0006":
+{
+	"frame": {"x":0,"y":313,"w":262,"h":132},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":94,"w":339,"h":226},
+	"sourceSize": {"w":339,"h":226}
+}},
+"meta": {
+	"app": "Adobe Animate",
+	"version": "19.2.1.408",
+	"image": "Enemigo1AtaqueFlip.png",
+	"format": "RGBA8888",
+	"size": {"w":512,"h":512},
+	"scale": "1"
+}
+}

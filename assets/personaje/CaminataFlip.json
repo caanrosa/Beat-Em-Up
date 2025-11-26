@@ -1,0 +1,107 @@
+﻿{"frames": {
+
+"WalkFlip0000":
+{
+	"frame": {"x":0,"y":0,"w":325,"h":418},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":6,"y":10,"w":337,"h":428},
+	"sourceSize": {"w":337,"h":428}
+},
+"WalkFlip0001":
+{
+	"frame": {"x":0,"y":0,"w":325,"h":418},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":6,"y":10,"w":337,"h":428},
+	"sourceSize": {"w":337,"h":428}
+},
+"WalkFlip0002":
+{
+	"frame": {"x":325,"y":0,"w":337,"h":412},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":14,"w":337,"h":428},
+	"sourceSize": {"w":337,"h":428}
+},
+"WalkFlip0003":
+{
+	"frame": {"x":325,"y":0,"w":337,"h":412},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":14,"w":337,"h":428},
+	"sourceSize": {"w":337,"h":428}
+},
+"WalkFlip0004":
+{
+	"frame": {"x":662,"y":0,"w":316,"h":420},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":10,"y":4,"w":337,"h":428},
+	"sourceSize": {"w":337,"h":428}
+},
+"WalkFlip0005":
+{
+	"frame": {"x":662,"y":0,"w":316,"h":420},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":10,"y":4,"w":337,"h":428},
+	"sourceSize": {"w":337,"h":428}
+},
+"WalkFlip0006":
+{
+	"frame": {"x":0,"y":420,"w":304,"h":424},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":18,"y":0,"w":337,"h":428},
+	"sourceSize": {"w":337,"h":428}
+},
+"WalkFlip0007":
+{
+	"frame": {"x":0,"y":420,"w":304,"h":424},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":18,"y":0,"w":337,"h":428},
+	"sourceSize": {"w":337,"h":428}
+},
+"WalkFlip0008":
+{
+	"frame": {"x":304,"y":420,"w":309,"h":422},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":15,"y":5,"w":337,"h":428},
+	"sourceSize": {"w":337,"h":428}
+},
+"WalkFlip0009":
+{
+	"frame": {"x":304,"y":420,"w":309,"h":422},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":15,"y":5,"w":337,"h":428},
+	"sourceSize": {"w":337,"h":428}
+},
+"WalkFlip0010":
+{
+	"frame": {"x":613,"y":420,"w":319,"h":420},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":9,"y":7,"w":337,"h":428},
+	"sourceSize": {"w":337,"h":428}
+},
+"WalkFlip0011":
+{
+	"frame": {"x":613,"y":420,"w":319,"h":420},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":9,"y":7,"w":337,"h":428},
+	"sourceSize": {"w":337,"h":428}
+}},
+"meta": {
+	"app": "Adobe Animate",
+	"version": "19.2.1.408",
+	"image": "CaminataFlip.png",
+	"format": "RGBA8888",
+	"size": {"w":1024,"h":849},
+	"scale": "1"
+}
+}

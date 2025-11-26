@@ -1,0 +1,107 @@
+﻿{"frames": {
+
+"Ciclope ataqueFlip0000":
+{
+	"frame": {"x":0,"y":0,"w":168,"h":226},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":323,"y":21,"w":657,"h":249},
+	"sourceSize": {"w":657,"h":249}
+},
+"Ciclope ataqueFlip0001":
+{
+	"frame": {"x":0,"y":0,"w":168,"h":226},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":323,"y":21,"w":657,"h":249},
+	"sourceSize": {"w":657,"h":249}
+},
+"Ciclope ataqueFlip0002":
+{
+	"frame": {"x":168,"y":0,"w":224,"h":244},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":267,"y":3,"w":657,"h":249},
+	"sourceSize": {"w":657,"h":249}
+},
+"Ciclope ataqueFlip0003":
+{
+	"frame": {"x":392,"y":0,"w":472,"h":247},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":19,"y":0,"w":657,"h":249},
+	"sourceSize": {"w":657,"h":249}
+},
+"Ciclope ataqueFlip0004":
+{
+	"frame": {"x":0,"y":247,"w":485,"h":247},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":6,"y":0,"w":657,"h":249},
+	"sourceSize": {"w":657,"h":249}
+},
+"Ciclope ataqueFlip0005":
+{
+	"frame": {"x":485,"y":247,"w":491,"h":247},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":0,"w":657,"h":249},
+	"sourceSize": {"w":657,"h":249}
+},
+"Ciclope ataqueFlip0006":
+{
+	"frame": {"x":485,"y":247,"w":491,"h":247},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":0,"w":657,"h":249},
+	"sourceSize": {"w":657,"h":249}
+},
+"Ciclope ataqueFlip0007":
+{
+	"frame": {"x":485,"y":247,"w":491,"h":247},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":0,"w":657,"h":249},
+	"sourceSize": {"w":657,"h":249}
+},
+"Ciclope ataqueFlip0008":
+{
+	"frame": {"x":0,"y":494,"w":271,"h":247},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":220,"y":0,"w":657,"h":249},
+	"sourceSize": {"w":657,"h":249}
+},
+"Ciclope ataqueFlip0009":
+{
+	"frame": {"x":271,"y":494,"w":269,"h":216},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":388,"y":31,"w":657,"h":249},
+	"sourceSize": {"w":657,"h":249}
+},
+"Ciclope ataqueFlip0010":
+{
+	"frame": {"x":540,"y":494,"w":246,"h":232},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":369,"y":17,"w":657,"h":249},
+	"sourceSize": {"w":657,"h":249}
+},
+"Ciclope ataqueFlip0011":
+{
+	"frame": {"x":0,"y":741,"w":244,"h":234},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":368,"y":15,"w":657,"h":249},
+	"sourceSize": {"w":657,"h":249}
+}},
+"meta": {
+	"app": "Adobe Animate",
+	"version": "19.2.1.408",
+	"image": "Enemigo2AtaqueFlip.png",
+	"format": "RGBA8888",
+	"size": {"w":1024,"h":1024},
+	"scale": "1"
+}
+}
